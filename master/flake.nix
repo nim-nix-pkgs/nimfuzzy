@@ -11,6 +11,7 @@
   inputs.src-nimfuzzy-master.ref   = "refs/heads/master";
   inputs.src-nimfuzzy-master.owner = "genotrance";
   inputs.src-nimfuzzy-master.repo  = "nimfuzzy";
+  inputs.src-nimfuzzy-master.dir   = "";
   inputs.src-nimfuzzy-master.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";

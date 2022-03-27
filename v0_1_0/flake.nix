@@ -11,6 +11,7 @@
   inputs.src-nimfuzz-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-nimfuzz-v0_1_0.owner = "genotrance";
   inputs.src-nimfuzz-v0_1_0.repo  = "nimfuzzy";
+  inputs.src-nimfuzz-v0_1_0.dir   = "";
   inputs.src-nimfuzz-v0_1_0.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";
